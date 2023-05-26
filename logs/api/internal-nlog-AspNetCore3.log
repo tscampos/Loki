@@ -1,0 +1,10 @@
+2023-05-26 16:20:49.3158 Info Message Template Auto Format enabled
+2023-05-26 16:20:49.3250 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 16:20:49.3763 Info Adding target FileTarget(Name=allfile)
+2023-05-26 16:20:49.3847 Info Adding target FileTarget(Name=ownFile-web)
+2023-05-26 16:20:49.3847 Info Adding target ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 16:20:49.4071 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=81, FilePath=/app/NLog.config
+2023-05-26 19:21:52.2760 Info AppDomain Shutting down. Logger closing...
+2023-05-26 19:21:52.6656 Info Logger has been shut down.
+2023-05-26 19:21:53.0622 Info Shutdown() called. Logger closing...
+2023-05-26 19:21:53.0622 Info Logger has been closed down.

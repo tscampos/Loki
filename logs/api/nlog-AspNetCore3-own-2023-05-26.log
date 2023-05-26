@@ -1,0 +1,6 @@
+datetime="2023-05-26 16:20:49.4314" eventId=0 logLevel="DEBUG" logger="PedeLogo.Catalogo.Api.Program" message="init main" exception="" url= action=
+datetime="2023-05-26 16:20:49.7907" eventId=0 logLevel="INFO" logger="Microsoft.Hosting.Lifetime" message="Now listening on: http://[::]:80" exception="" url= action=
+datetime="2023-05-26 16:20:49.8010" eventId=0 logLevel="INFO" logger="Microsoft.Hosting.Lifetime" message="Application started. Press Ctrl+C to shut down." exception="" url= action=
+datetime="2023-05-26 16:20:49.8010" eventId=0 logLevel="INFO" logger="Microsoft.Hosting.Lifetime" message="Hosting environment: Production" exception="" url= action=
+datetime="2023-05-26 16:20:49.8010" eventId=0 logLevel="INFO" logger="Microsoft.Hosting.Lifetime" message="Content root path: /app" exception="" url= action=
+datetime="2023-05-26 16:21:25.8679" eventId=0 logLevel="INFO" logger="PedeLogo.Catalogo.Api.Controllers.ProdutoController" message="Entrou no Get All" exception="" url=http://localhost/Produto action=Get
